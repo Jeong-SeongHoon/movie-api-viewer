@@ -1,2 +1,2 @@
-# football-api-viewer
-This is a football information site using football api.
+# movie-api-viewer
+This is a movie information site using movie api.
