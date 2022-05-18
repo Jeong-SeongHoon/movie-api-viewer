@@ -8,7 +8,7 @@ This is a movie information site using movie api.
  - Tailwind CSS  
  - Recoil  
  - Vite  
- - xios  
+ - Axios  
  - Prettier
  - ESLint  
 
